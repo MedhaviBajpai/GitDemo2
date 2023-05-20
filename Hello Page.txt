@@ -1,2 +1,12 @@
 Hi .. This is my Hello Page.
 Enjoy Yourself
+
+1. git init
+2. git status
+3. git add
+4. git add -A
+5. git commit -m "Page.txt"
+6. git rm --cached "Page.txt"
+7. touch .gitinit
+8. git diff
+9. git add --a
